@@ -1,0 +1,17 @@
+.App {
+  margin: 2rem;
+  max-width: 100%;
+}
+
+.App p {
+  line-height: 2;
+}
+
+.square {
+  height: 200px;
+  width: 200px;
+  background-color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
